@@ -1,0 +1,31 @@
+body {
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    background-image: url(2a1adeb.jpg);
+    background-repeat: no-repeat;    /* Rasmni faqat bir marta qo'yish */
+    background-size: cover; 
+}
+
+.header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+    background-image: url(meem-course-virtual-madrassa-1170x658.);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+}
+
+.header {
+    background-image: url('rasmning-joylashgan-joyi/rasmning-nomi.jpg');
+    background-repeat: no-repeat; /* Rasmni faqat bir marta qo'yish */
+    background-size: cover; /* Rasmning matnni qoplash uchun o'lchami */
+}
+
